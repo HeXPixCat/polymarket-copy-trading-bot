@@ -133,4 +133,4 @@ MIT License - See [LICENSE](LICENSE.md) file for details.
 **Disclaimer:** This software is for educational purposes only. Trading involves risk of loss. The developers are not responsible for any financial losses incurred while using this bot.
 
 
-**Support:** For questions or issues, contact via Discord: `hexpixcat`
+**Support:** For questions or issues, contact via Discord: `hexpixcat` 
