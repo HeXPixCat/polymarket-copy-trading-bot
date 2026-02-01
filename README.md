@@ -23,7 +23,7 @@ The Polymarket Copy Trading Bot automatically replicates trades from successful 
 
 ### Prerequisites
 
-- Node.js[https://nodejs.org/en/download] v18+
+- [Node.js](https://nodejs.org/en/download) v18+
 - MongoDB database ([MongoDB Atlas](https://www.mongodb.com/cloud/atlas/register) free tier works)
 - Polygon wallet with USDC and POL/MATIC for gas
 - RPC endpoint ([Infura](https://infura.io) or [Alchemy](https://www.alchemy.com) free tier)
